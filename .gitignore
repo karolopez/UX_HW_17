@@ -1,0 +1,62 @@
+
+index.html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>My Interactive Website</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar">
+            <img src="https://www.lucysfriedchicken.com/wp-content/themes/lucys-bones-2015/library/images/logo-lucys.png" alt="Logo">
+            <ul>
+            <ul class="nav-links">
+                <li><a href="#home">Menu</a></li>
+                <li><a href="#about">Catering</a></li>
+                <li><a href="#services">Music/Events</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+<body>
+    <img src="https://www.lucysfriedchicken.com/wp-content/uploads/2019/11/IMG_5180-1.jpg" alt="Large Image">
+</body>
+<section class="lil opaque layer">
+    <h1>Lucy's Revival</h1>
+</section>
+    <style>
+        .hero-image {
+        background-image:img src="C:\Users\karyd\OneDrive\Pictures\Screenshots\dudes jam.png" alt="Description of the image";
+          width:fit-content;
+        }
+        
+        .hero-text {
+          text-align: center;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          color: white;
+          font-size: 30px;
+        }
+        </style>
+        </head>
+        <body>
+        
+        <div class="hero-image">
+          <div class="hero-text">
+            <h1>Lucy's South by South Austin Fried Chicken Revival</h1>
+          </div>
+        </div>
+
+    <footer>
+        <p>&copy; 2023 Lucy's Fried Chicken. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
